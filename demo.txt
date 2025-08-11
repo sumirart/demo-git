@@ -1,5 +1,5 @@
 This is a demo file for Git conflicts.
 
 Line 1: Original content
-Line 2: This will be modified differently on different branches
+Line 2: Modified on main branch - fixing critical bug
 Line 3: Another line that might cause conflicts
